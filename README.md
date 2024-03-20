@@ -20,6 +20,6 @@
   <a href = "mailto:thales_pro@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thales-fortes-512879164?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcFugDi7GRT%2BsGQdrK1k7XA%3D%3D target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/ThalesFortes/W0lfh/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThalesFortes/ThalesFortes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
